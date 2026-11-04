@@ -1,0 +1,228 @@
+{
+  "markdown": {
+    "理论": {
+      "bytes": 445703,
+      "crlf_clean": true,
+      "chapters": 8,
+      "raw_asterisk_pairs": true,
+      "markdown_tables": 59,
+      "question_count": 0,
+      "unique_questions": 0,
+      "answer_spaces": 0,
+      "writing_lines": 0
+    },
+    "练习": {
+      "bytes": 405013,
+      "crlf_clean": true,
+      "chapters": 8,
+      "raw_asterisk_pairs": true,
+      "markdown_tables": 5,
+      "question_count": 516,
+      "unique_questions": 516,
+      "answer_spaces": 516,
+      "writing_lines": 2184
+    }
+  },
+  "html": {
+    "排版成品": {
+      "理论": {
+        "html_tables": 59,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      },
+      "练习": {
+        "html_tables": 5,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      }
+    },
+    "定稿打印版/多元配色修订版": {
+      "理论": {
+        "html_tables": 59,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      },
+      "练习": {
+        "html_tables": 5,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      }
+    },
+    "定稿打印版/配色方案1_莫兰迪学术多色": {
+      "理论": {
+        "html_tables": 59,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      },
+      "练习": {
+        "html_tables": 5,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      }
+    },
+    "定稿打印版/配色方案2_东方四时矿物多色": {
+      "理论": {
+        "html_tables": 59,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      },
+      "练习": {
+        "html_tables": 5,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      }
+    },
+    "定稿打印版/配色方案3_科技极简双色对位": {
+      "理论": {
+        "html_tables": 59,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      },
+      "练习": {
+        "html_tables": 5,
+        "unparsed_table_separators": 0,
+        "raw_double_stars": 0,
+        "has_unparsed_mathjax_placeholders": false
+      }
+    }
+  },
+  "pdf": {
+    "排版成品": {
+      "理论": {
+        "pages": 207,
+        "bookmarks": 546,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      },
+      "练习": {
+        "pages": 223,
+        "bookmarks": 211,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      }
+    },
+    "定稿打印版/多元配色修订版": {
+      "理论": {
+        "pages": 207,
+        "bookmarks": 546,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      },
+      "练习": {
+        "pages": 223,
+        "bookmarks": 211,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      }
+    },
+    "定稿打印版/配色方案1_莫兰迪学术多色": {
+      "理论": {
+        "pages": 207,
+        "bookmarks": 546,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      },
+      "练习": {
+        "pages": 223,
+        "bookmarks": 211,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      }
+    },
+    "定稿打印版/配色方案2_东方四时矿物多色": {
+      "理论": {
+        "pages": 207,
+        "bookmarks": 546,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      },
+      "练习": {
+        "pages": 223,
+        "bookmarks": 211,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      }
+    },
+    "定稿打印版/配色方案3_科技极简双色对位": {
+      "理论": {
+        "pages": 207,
+        "bookmarks": 546,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      },
+      "练习": {
+        "pages": 223,
+        "bookmarks": 211,
+        "invalid_bookmarks": [],
+        "blank_pages": [],
+        "pages_with_raw_stars": []
+      }
+    }
+  },
+  "toc_alignment": {
+    "理论": {
+      "page_map_recorded": {
+        "1": 3,
+        "2": 8,
+        "3": 47,
+        "4": 60,
+        "5": 116,
+        "6": 145,
+        "7": 165,
+        "8": 198
+      },
+      "pdf_actual_starts": {
+        "1": 3,
+        "2": 8,
+        "3": 47,
+        "4": 60,
+        "5": 116,
+        "6": 145,
+        "7": 165,
+        "8": 198
+      },
+      "exact_match": true
+    },
+    "练习": {
+      "page_map_recorded": {
+        "1": 3,
+        "2": 20,
+        "3": 78,
+        "4": 111,
+        "5": 145,
+        "6": 171,
+        "7": 188,
+        "8": 207
+      },
+      "pdf_actual_starts": {
+        "1": 3,
+        "2": 20,
+        "3": 78,
+        "4": 111,
+        "5": 145,
+        "6": 171,
+        "7": 188,
+        "8": 207
+      },
+      "exact_match": true
+    }
+  }
+}

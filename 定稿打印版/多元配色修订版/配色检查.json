@@ -1,0 +1,68 @@
+{
+  "palette": [
+    [
+      "海蓝",
+      "#205775",
+      "#edf5fa",
+      "#b8d5e5"
+    ],
+    [
+      "松绿",
+      "#28685b",
+      "#eef7f2",
+      "#b9d9cb"
+    ],
+    [
+      "青碧",
+      "#166777",
+      "#eef8fa",
+      "#b3dce2"
+    ],
+    [
+      "紫灰",
+      "#65518a",
+      "#f5f1fa",
+      "#d4c8e7"
+    ],
+    [
+      "靛蓝",
+      "#3d5d91",
+      "#f0f4fb",
+      "#c1cfe5"
+    ],
+    [
+      "陶红",
+      "#99503c",
+      "#fcf3ef",
+      "#e6c5b8"
+    ],
+    [
+      "深青",
+      "#246b69",
+      "#eef8f6",
+      "#badbd6"
+    ],
+    [
+      "棕金",
+      "#886222",
+      "#faf6ec",
+      "#e2d1ad"
+    ]
+  ],
+  "qa": {
+    "理论": {
+      "contentUnchanged": true,
+      "items": 0,
+      "spaces": 0,
+      "lines": 0,
+      "overflow": 0
+    },
+    "练习": {
+      "contentUnchanged": true,
+      "items": 686,
+      "spaces": 686,
+      "lines": 2967,
+      "overflow": 0
+    }
+  }
+}

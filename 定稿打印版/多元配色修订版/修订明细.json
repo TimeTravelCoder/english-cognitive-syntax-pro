@@ -1,0 +1,429 @@
+[
+  {
+    "题号": "P2-Q9",
+    "原文": "9. The students returned their consent forms before Friday. The students may join the field trip.  \r\n限定范围：只有按时交表的学生可以参加。",
+    "修订": "9. The students returned their consent forms before Friday. The students may join the field trip.  \r\n限定范围：只有按时交表的学生可以参加。\r\n\r\n须保留“只有”的排他含义；仅使用限定性定语从句不能自动表达这一含义。"
+  },
+  {
+    "题号": "P3-Q43",
+    "原文": "43. The students completed the field survey. The students will present their findings tomorrow.  \r\n限定范围：只有完成调查的学生参加展示。",
+    "修订": "43. The students completed the field survey. The students will present their findings tomorrow.  \r\n限定范围：只有完成调查的学生参加展示。\r\n\r\n须保留“只有”的排他含义；仅使用限定性定语从句不能自动表达这一含义。"
+  },
+  {
+    "题号": "P4-Q123",
+    "原文": "123. The applicants passed the language test. The applicants will proceed to the final interview.  \r\n限定范围：只有通过测试的申请者进入终面。",
+    "修订": "123. The applicants passed the language test. The applicants will proceed to the final interview.  \r\n限定范围：只有通过测试的申请者进入终面。\r\n\r\n须保留“只有”的排他含义；仅使用限定性定语从句不能自动表达这一含义。"
+  },
+  {
+    "原文": "9. `The students who returned their consent forms before Friday may join the field trip.`",
+    "修订": "9. `Only the students who returned their consent forms before Friday may join the field trip.`"
+  },
+  {
+    "原文": "43. `The students who completed the field survey will present their findings tomorrow.`",
+    "修订": "43. `Only the students who completed the field survey will present their findings tomorrow.`"
+  },
+  {
+    "原文": "123. `The applicants who passed the language test will proceed to the final interview.`",
+    "修订": "123. `Only the applicants who passed the language test will proceed to the final interview.`"
+  },
+  {
+    "原文": "6. `On her birthday morning, Mia opened the package at the kitchen table, her hands trembling slightly with anticipation.`",
+    "修订": "6. `On her birthday morning, Mia opened the package while seated at the kitchen table, her hands trembling slightly with anticipation.`"
+  },
+  {
+    "原文": "122. `An hour before the performance, the musician studied the score alone backstage, her pencil hovering above the final page.`",
+    "修订": "122. `An hour before the performance, the musician studied the score while seated alone backstage, the musician's pencil hovering above the final page.`"
+  },
+  {
+    "原文": "C. 透明度是审查所必需，但并不充分",
+    "修订": "C. 透明度是有效审查的必要条件，但单靠透明度不能消除歧视"
+  },
+  {
+    "原文": "36. C。`necessary condition` 表示必要但不充分。",
+    "修订": "36. C。透明度是“有效审查”的必要条件；单靠透明度不能达到的结果是“消除歧视”。两者的判断对象不同，不能据此推出透明度对有效审查也不充分。"
+  },
+  {
+    "原文": "要求：以给出的主语 + 谓语动词 + 宾语（SVO）主干为核心，把其余信息放入合适位置。不要把所有修饰语堆到名词前。",
+    "修订": "要求：保留给定句子的主语、谓语及必要补足内容，把其余信息放入合适位置。句型按实际结构判断：wait for 的 for 短语不是直接宾语。不要把所有修饰语堆到名词前。"
+  },
+  {
+    "原文": "自检要点：绝对短语是否有独立逻辑主语；是否落在句末尾焦点位置。",
+    "修订": "自检要点：绝对短语是否有独立逻辑主语；句末补充说明是否清楚。不能只凭位置判定信息焦点。"
+  },
+  {
+    "原文": "要点：独立逻辑主语 + 句末尾焦点。",
+    "修订": "要点：独立逻辑主语 + 句末补充说明；信息焦点须结合语境判断。"
+  },
+  {
+    "原文": "要求：不要把相关性夸大成已经证实的唯一因果。",
+    "修订": "要求：不能仅由这份相关调查断言已经证明因果，更不能把一个相关因素当成唯一原因。"
+  },
+  {
+    "原文": "Because the virus continued to mutate, researchers had to redesign the diagnostic procedure.",
+    "修订": "Because the virus continued to mutate, the diagnostic procedure needed to be redesigned."
+  },
+  {
+    "原文": "Because severe data loss occurred, researchers could not compare the two groups reliably.",
+    "修订": "Because severe data loss occurred, a reliable comparison between the two groups was impossible."
+  },
+  {
+    "原文": "Because two production lines were contaminated, the company had to recall the affected products immediately.",
+    "修订": "Because two production lines were contaminated, the affected products needed to be recalled immediately."
+  },
+  {
+    "原文": "Because there was no comparable control group, the researchers could not draw a firm conclusion about the treatment's effectiveness.",
+    "修订": "Because there was no comparable control group, a firm conclusion about the treatment's effectiveness could not be drawn."
+  },
+  {
+    "原文": "57. `The rapid expansion of the city precipitated a substantial decline in wetland area.` 也可根据语境使用 `caused`、`accelerated` 或 `contributed to`。",
+    "修订": "57. `The rapid expansion of the city caused a substantial decline in wetland area.` 也可用 `led to`。原句没有说明结果突然出现或被加速，不宜无依据地使用 `precipitated` 或 `accelerated`；`contributed to` 会把原来的因果表述改为促成因素之一。"
+  },
+  {
+    "原文": "The problem is **that the strategy depends on external funding.**",
+    "修订": "The fact is **that the strategy depends on external funding.**"
+  },
+  {
+    "原文": "**10.（第五步·尾焦点调度）** 以下句子头重脚轻，用形式主语 It 改写，使核心论断落在句末：",
+    "修订": "**10.（第五步·尾重调整）** 用形式主语 It 改写，把较长的主语从句移到句末；不能仅由位置断定作者的重点："
+  },
+  {
+    "题号": "P3-Q10",
+    "原文": "10. The data collected from more than thirty monitoring stations along the coast **(indicate / indicates)** a steady rise in water temperature.",
+    "修订": "10. The data collected from more than thirty monitoring stations along the coast **(indicate / indicates)** a steady rise in water temperature.\r\n\r\n本题按研究文体中 data 作复数名词的用法选择谓语；其他语境中 data 也可作不可数名词配单数谓语。"
+  },
+  {
+    "题号": "P3-Q28",
+    "原文": "28. 用一句中文概括本段的“边界条件”：这项规定能做什么，不能保证什么？",
+    "修订": "28. 用一句中文概括本段的“边界条件”：这项规定能做什么，不能保证什么？\r\n\r\n分别说明该协议没有设置什么禁令，以及它不能保证出现什么后果；不要把“不禁止”误写成“不能保证禁止”。"
+  },
+  {
+    "题号": "P3-Q57",
+    "原文": "57. 把两个过程名词化并用表示关系的动词连接：  \r\n“城市迅速扩张，因此湿地面积大幅减少。”",
+    "修订": "57. 把两个过程名词化并用表示关系的动词连接：  \r\n“城市迅速扩张，因此湿地面积大幅减少。”\r\n\r\n保留原句的因果强度与程度，不额外添加“突然发生”或“加速”的含义。"
+  },
+  {
+    "题号": "P3-Q33",
+    "原文": "33. 第一处 `that` 从句在句中充当什么成分？",
+    "修订": "33. `that they may reproduce patterns found in historical data` 位于哪个表语结构中？说明它与第二个 that 从句的并列关系。"
+  },
+  {
+    "题号": "P2-Q18",
+    "原文": "18. 把命题 `the new timetable will reduce congestion` 放入形式主语结构，使用 `It is likely that...`。",
+    "修订": "18. 把命题 `the new timetable will reduce congestion` 放入形式主语结构，使用 `It is likely that...`。\r\n\r\n本题要求用指定句式表达“可能降低拥堵”的判断，允许把原句的确定语气改为可能性判断。"
+  },
+  {
+    "题号": "P2-Q25",
+    "原文": "25. 合并：`Several roads were flooded. The match was postponed.`  \r\n要求：明确表达因果，但不要同时使用两个因果连接词。",
+    "修订": "25. 合并：`Several roads were flooded. The match was postponed.`  \r\n要求：明确表达因果，但不要同时使用两个因果连接词。\r\n\r\n用 because 或 so 连接同一对因果分句，不在同一层级重复写成 because ... so ...。"
+  },
+  {
+    "题号": "P2-Q43",
+    "原文": "43. 使用名词化和 `obviate` 改写：  \r\n`After the archive was digitized, researchers no longer needed to handle the fragile originals every day.`",
+    "修订": "43. 使用名词化和 `obviate` 改写：  \r\n`After the archive was digitized, researchers no longer needed to handle the fragile originals every day.`\r\n\r\n题内设定：数字化使工作人员每天接触原件不再必要；据此表达“消除需要”，不另添因果背景。"
+  },
+  {
+    "题号": "P2-Q67",
+    "原文": "67. 上文已经在讨论 `the samples`。把下面句子改为以已知信息开头的被动结构：  \r\n`The technicians stored the samples at minus eighty degrees immediately after collection.`",
+    "修订": "67. 上文已经在讨论 `the samples`。把下面句子改为以已知信息开头的被动结构：  \r\n`The technicians stored the samples at minus eighty degrees immediately after collection.`\r\n\r\n本题中执行者不是关注点，允许省略 by the technicians；其余事件内容须保留。"
+  },
+  {
+    "题号": "P2-Q86",
+    "原文": "86. 根据证据强度改写段落，消除绝对化表达：  \r\n`Social media destroys teenagers' mental health. A survey of 300 students proves that using social media causes anxiety in every user.`",
+    "修订": "86. 根据证据强度改写段落，消除绝对化表达：  \r\n`Social media destroys teenagers' mental health. A survey of 300 students proves that using social media causes anxiety in every user.`\r\n\r\n题内证据：调查发现两者存在关联，没有证明因果。本题据此调整论断，不自拟额外研究数据。"
+  },
+  {
+    "题号": "P3-Q52",
+    "原文": "52. 合并：The river level continued to rise. The emergency team evacuated the village.  \r\n要求：用明确的因果信号，不夸大因果强度。",
+    "修订": "52. 合并：The river level continued to rise. The emergency team evacuated the village.  \r\n要求：用明确的因果信号，不夸大因果强度。\r\n\r\n题内设定：河水持续上涨是撤离的原因之一。表达这一因果关系，不写成唯一原因。"
+  },
+  {
+    "题号": "P5-Q1",
+    "原文": "**1.（第一步·写清基本句子）** 把下面的意思写成最简的主语 + 谓语动词 + 宾语（SVO）结构。先写清谁做了什么，只删去不影响这层意思的细节。如果删掉名词后面的说明，就会说不清具体指谁或什么，那部分要保留。不规定词数：\r\n> 央行大幅加息导致了房地产市场的急剧降温。",
+    "修订": "**1.（第一步·写清基本句子）** 把下面的意思写成最简的主语 + 谓语动词 + 宾语（SVO）结构。先写清谁做了什么，只删去不影响这层意思的细节。如果删掉名词后面的说明，就会说不清具体指谁或什么，那部分要保留。不规定词数：\r\n> 央行大幅加息导致了房地产市场的急剧降温。\r\n\r\n须保留“央行”这一主体来源，以及加息和市场放缓的程度信息。"
+  },
+  {
+    "题号": "P5-Q7",
+    "原文": "**7.（第四步·右向延展）** 在以下主干后挂接一个限制性定语从句 + 一个表示结果的分词短语：\r\n> The committee published the report.",
+    "修订": "**7.（第四步·右向延展）** 在以下主干后挂接一个限制性定语从句 + 一个表示结果的分词短语：\r\n> The committee published the report.\r\n\r\n允许自拟合理的报告内容与结果，作为假设写作场景；保留给定的报告事件。"
+  },
+  {
+    "题号": "P5-Q9",
+    "原文": "**9.（第五步·总结性同位语）** 为以下句子添加一个总结性同位语（抽象名词 + that 从句），概括前面的事件，并在句末说明意义或结果；新增说明须与给定事实一致：\r\n> The regulatory agency imposed strict caps on carbon emissions.",
+    "修订": "**9.（第五步·总结性同位语）** 为以下句子添加一个总结性同位语（抽象名词 + that 从句），概括前面的事件，并在句末说明意义或结果；新增说明须与给定事实一致：\r\n> The regulatory agency imposed strict caps on carbon emissions.\r\n\r\n允许补充合理的假设背景，但须与给定事实一致，不把自拟内容当作真实史料。"
+  },
+  {
+    "题号": "P5-Q56",
+    "原文": "**56.** 围绕\"远程办公对生产力的影响\"构建 4 句学术段落：\r\n- 第 1 句：背景引入（已知信息）\r\n- 第 2 句：研究发现（用概念包裹宾从）\r\n- 第 3 句：机制解释（用介词修饰链或名词化）\r\n- 第 4 句：结论与展望（用 hedging 控制断言强度）",
+    "修订": "**56.** 围绕\"远程办公对生产力的影响\"构建 4 句学术段落：\r\n- 第 1 句：背景引入（已知信息）\r\n- 第 2 句：研究发现（用概念包裹宾从）\r\n- 第 3 句：机制解释（用介词修饰链或名词化）\r\n- 第 4 句：结论与展望（用 hedging 控制断言强度）\r\n\r\n研究发现可自拟为明确标注的假设情境；不得把虚构数据或发现冒充真实文献。"
+  },
+  {
+    "题号": "P5-Q57",
+    "原文": "**57.** 围绕\"人工智能对就业市场的冲击\"构建 4 句段落，要求每句句末信息成为下句句首已知信息（已知-未知流动）。",
+    "修订": "**57.** 围绕\"人工智能对就业市场的冲击\"构建 4 句段落，要求每句句末信息成为下句句首已知信息（已知-未知流动）。\r\n\r\n衔接要求适用于前面各句与其下一句之间；可用代词或概括名词承接，不要求逐字重复。"
+  },
+  {
+    "题号": "P5-Q58",
+    "原文": "**58.** 以下段落衔接松散，请重写为衔接紧密的 4 句段落（可调整语序、增加指代表达）：\r\n> Artificial intelligence is transforming healthcare. Machine learning algorithms can analyze medical images. Doctors still make final decisions. Patient outcomes have improved in several clinical trials.",
+    "修订": "**58.** 以下段落衔接松散，请重写为衔接紧密的 4 句段落（可调整语序、增加指代表达）：\r\n> Artificial intelligence is transforming healthcare. Machine learning algorithms can analyze medical images. Doctors still make final decisions. Patient outcomes have improved in several clinical trials.\r\n\r\n可以说明证据边界，但不得新增研究数据或把相关性改成已证明的因果。"
+  },
+  {
+    "题号": "core-阅读-8",
+    "原文": "**阅读组 8**：取一篇外刊文章，给每段贴功能标签，并写出其宏观结构与预判主旨。自检：不看选项先写出一句主旨，再与真题选项比对",
+    "修订": "**阅读组 8**：取一篇外刊文章，给每段贴功能标签，并写出其宏观结构与预判主旨。自检：不看选项先写出一句主旨，再与真题选项比对\r\n\r\n选取带配套理解题的英文文章；若材料没有配套题，则自行概括主旨并回到原文核对，不比较不存在的选项。"
+  },
+  {
+    "题号": "core-阅读-9",
+    "原文": "**阅读组 9**：找出文中所有 `This / These / Such + 名词` 的衔接点，说明每个指代的具体内容。自检：若某处指不出所指，说明该段理解有断链",
+    "修订": "**阅读组 9**：找出文中所有 `This / These / Such + 名词` 的衔接点，说明每个指代的具体内容。自检：若某处指不出所指，说明该段理解有断链\r\n\r\n使用上一组所选文章，或另选含有目标回指表达的材料；须提供足够上下文，使指代能够判断。"
+  },
+  {
+    "题号": "core-写作-13",
+    "原文": "**写作组 13**：把下面这句改为学术讨论与高考建议两个版本（均按证据和目的调整立场强度）：`Social media damages teenagers' mental health.`",
+    "修订": "**写作组 13**：把下面这句改为学术讨论与高考建议两个版本（均按证据和目的调整立场强度）：`Social media damages teenagers' mental health.`\r\n\r\n未提供真实研究证据，本题只练习可能性判断与建议表达，不引用虚构研究来支持结论。"
+  },
+  {
+    "题号": "P7-7.6-Q10",
+    "原文": "10. 用 that 表语从句表达同一依赖事实，以 The problem is... 开头：`The strategy is dependent on external funding.`",
+    "修订": "10. 用 that 表语从句表达同一依赖事实，以 The fact is... 开头：`The strategy is dependent on external funding.`"
+  },
+  {
+    "题号": "P8-Q6",
+    "原文": "6. 填冠词：I bought ___ notebook yesterday. ___ notebook is on my desk now. 假设尚未提过这本笔记本，第二句仍指它。",
+    "修订": "6. 填冠词：I bought ___ notebook yesterday. ___ notebook is on my desk now. 假设尚未提过这本笔记本，第二句仍指它。\r\n\r\n语境补充：听者事先不知道具体是哪一本书。"
+  },
+  {
+    "题号": "P8-Q17",
+    "原文": "17. 翻译：You must not enter the room / You do not have to enter the room。",
+    "修订": "17. 翻译：You must not enter the room / You do not have to enter the room。\r\n\r\n本题在规定、义务的语境中理解情态动词，不采用推测性的解读。"
+  },
+  {
+    "题号": "P8-Q19",
+    "原文": "19. 改写 The treatment may not work 为更明确的完整从句，并说明能否推出“已证明无效”。",
+    "修订": "19. 改写 The treatment may not work 为更明确的完整从句，并说明能否推出“已证明无效”。\r\n\r\n本题中的 may not 取“可能不……”的解读，不表示许可上的禁止。"
+  },
+  {
+    "题号": "P8-Q38",
+    "原文": "38. 把“你的语法不好”改成针对 Scientists did not claim ... 被误译成相反主张的可操作反馈。",
+    "修订": "38. 把“你的语法不好”改成针对 Scientists did not claim ... 被误译成相反主张的可操作反馈。\r\n\r\n完整原句为 Scientists did not claim that the method was safe. 对照错误译文“科学家说这个方法不安全”，写出针对否定范围的反馈。"
+  },
+  {
+    "题号": "P1-A1",
+    "原文": "- `The girl hid in the room. She was very afraid.` → 前置空间坐标 + 状态定位 + 身体特写",
+    "修订": "- `The girl hid in the room. She was very afraid.` → 前置空间坐标 + 状态定位 + 身体特写\r\n\r\n允许自拟合理的身体动作、方式或目的细节；保留给定人物、时间、地点与情绪，不添加矛盾信息。"
+  },
+  {
+    "题号": "P1-A2",
+    "原文": "- `He walked out of the forest in the morning. He was tired.` → 时间坐标 + 方式状态 + 目的诉求",
+    "修订": "- `He walked out of the forest in the morning. He was tired.` → 时间坐标 + 方式状态 + 目的诉求\r\n\r\n允许自拟合理的身体动作、方式或目的细节；保留给定人物、时间、地点与情绪，不添加矛盾信息。"
+  },
+  {
+    "题号": "P1-A3",
+    "原文": "- `Our school will have a concert. It is in the hall next Friday.` → 空间 + 时段 + 活动目的三级 GPS",
+    "修订": "- `Our school will have a concert. It is in the hall next Friday.` → 空间 + 时段 + 活动目的三级 GPS\r\n\r\n允许自拟合理的身体动作、方式或目的细节；保留给定人物、时间、地点与情绪，不添加矛盾信息。"
+  },
+  {
+    "题号": "P2-Q95",
+    "原文": "95. **情绪外化**  \r\n不要直接使用 `very nervous`，把下面情境写成 3—4 句：  \r\n`Ella stood outside the audition room. Her name would be called next.`  \r\n要求：至少使用一个身体反应、一个环境细节和一个 `with` 复合结构。",
+    "修订": "95. **情绪外化**  \r\n不要直接使用 `very nervous`，把下面情境写成 3—4 句：  \r\n`Ella stood outside the audition room. Her name would be called next.`  \r\n要求：至少使用一个身体反应、一个环境细节和一个 `with` 复合结构。\r\n\r\n允许补充合理的叙事细节；保留给定人物、事件顺序和段首信息。"
+  },
+  {
+    "题号": "P2-Q96",
+    "原文": "96. **动作链**  \r\n把下面事件写成有节奏的 3—4 句，避免连续使用 `and then`：  \r\n`Noah saw a child fall into the shallow river. He dropped his bag. He ran down the bank. He reached for the child. A fisherman came to help.`",
+    "修订": "96. **动作链**  \r\n把下面事件写成有节奏的 3—4 句，避免连续使用 `and then`：  \r\n`Noah saw a child fall into the shallow river. He dropped his bag. He ran down the bank. He reached for the child. A fisherman came to help.`\r\n\r\n允许补充合理的叙事细节；保留给定人物、事件顺序和段首信息。"
+  },
+  {
+    "题号": "P2-Q97",
+    "原文": "97. **环境参与叙事**  \r\n把环境写成推动情节的力量，而不是静态背景：  \r\n情境：两名学生在暴雨中寻找走失的小狗；雨势加大；脚印即将消失；远处传来微弱叫声。  \r\n写 4—5 句，至少使用一个非谓语结构和一个倒装句。",
+    "修订": "97. **环境参与叙事**  \r\n把环境写成推动情节的力量，而不是静态背景：  \r\n情境：两名学生在暴雨中寻找走失的小狗；雨势加大；脚印即将消失；远处传来微弱叫声。  \r\n写 4—5 句，至少使用一个非谓语结构和一个倒装句。\r\n\r\n允许补充合理的叙事细节；保留给定人物、事件顺序和段首信息。"
+  },
+  {
+    "题号": "P2-Q98",
+    "原文": "98. **对话—动作—反应**  \r\n续写 5—6 句：  \r\n`“I broke the model by accident,” Sam whispered.`  \r\n要求：不要只写对话；穿插眼神、手部动作和另一人物的反应，使冲突走向缓和。",
+    "修订": "98. **对话—动作—反应**  \r\n续写 5—6 句：  \r\n`“I broke the model by accident,” Sam whispered.`  \r\n要求：不要只写对话；穿插眼神、手部动作和另一人物的反应，使冲突走向缓和。\r\n\r\n允许补充合理的叙事细节；保留给定人物、事件顺序和段首信息。"
+  },
+  {
+    "题号": "P2-Q99",
+    "原文": "99. **转折与领悟**  \r\n根据提示写一个 80 词左右的高潮段：  \r\n情境：Lena 在长跑中落后，想要退出；她听见同学呼喊自己的名字；她调整呼吸，完成比赛；她意识到完成比名次更重要。  \r\n目标句式：让步倒装或 `although`；非谓语动作链；`Only after...` 倒装。",
+    "修订": "99. **转折与领悟**  \r\n根据提示写一个 80 词左右的高潮段：  \r\n情境：Lena 在长跑中落后，想要退出；她听见同学呼喊自己的名字；她调整呼吸，完成比赛；她意识到完成比名次更重要。  \r\n目标句式：让步倒装或 `although`；非谓语动作链；`Only after...` 倒装。\r\n\r\n允许补充合理的叙事细节；保留给定人物、事件顺序和段首信息。"
+  },
+  {
+    "题号": "P2-Q100",
+    "原文": "100. **两段式综合续写**  \r\n阅读情境并续写两段，每段 70—90 词。  \r\n`On the way home, Ben found a wallet on an almost empty bus. Inside were some cash, an identity card, and a folded hospital appointment note. His phone was nearly out of power, and the bus was about to reach the final stop.`  \r\n第一段首句：`Ben hurried to the driver and showed her what he had found.`  \r\n第二段首句：`Twenty minutes later, an elderly man rushed into the station office.`  \r\n要求：情节闭环；人物行为合理；至少使用一个定语从句、一个非谓语动作链和一个独立主格或 `with` 复合结构。",
+    "修订": "100. **两段式综合续写**  \r\n阅读情境并续写两段，每段 70—90 词。  \r\n`On the way home, Ben found a wallet on an almost empty bus. Inside were some cash, an identity card, and a folded hospital appointment note. His phone was nearly out of power, and the bus was about to reach the final stop.`  \r\n第一段首句：`Ben hurried to the driver and showed her what he had found.`  \r\n第二段首句：`Twenty minutes later, an elderly man rushed into the station office.`  \r\n要求：情节闭环；人物行为合理；至少使用一个定语从句、一个非谓语动作链和一个独立主格或 `with` 复合结构。\r\n\r\n允许补充合理的叙事细节；保留给定人物、事件顺序和段首信息。"
+  },
+  {
+    "原文": "写作专项：句子、段落与高考应用（100题）",
+    "修订": "写作专项：句子、段落与高考应用（112题）"
+  },
+  {
+    "原文": "要求：圈出真正主语，在括号中选择正确谓语，并写出干扰你的链尾名词。",
+    "修订": "要求：在题句上框出完整主语；名词短语主语另圈中心词。选择正确谓语，写一个可能干扰判断的内部名词。若整个从句作主语，按整体意义判断数，不机械寻找链尾名词。"
+  },
+  {
+    "原文": "6. `effects — are`；干扰词可为 `loss`、`consolidation`、`adolescents`。",
+    "修订": "6. 完整主语：`The effects of repeated sleep loss on memory consolidation in adolescents`；中心词 effects，选 are。干扰词可为 loss、consolidation、adolescents。"
+  },
+  {
+    "原文": "7. `A series — has`；`failures` 与 `systems` 都是干扰词。",
+    "修订": "7. 完整主语：`A series of unexpected failures in the cooling systems of the research facility`；中心词 series，选 has。干扰词可为 failures、systems、facility。"
+  },
+  {
+    "原文": "8. `quality — depends`；干扰词为 `arguments`、`witnesses`。",
+    "修订": "8. 完整主语：`The quality of the arguments presented by the two witnesses during the final hearing`；中心词 quality，选 depends。干扰词可为 arguments、witnesses。"
+  },
+  {
+    "原文": "9. 整个 `What...delays` 从句作单数概念主语，选 `was`。",
+    "修订": "9. 完整主语：`What the committee members described as minor administrative delays`。本句将所述情况视为一个整体，选 was；members、delays 不是主句主语的中心词。"
+  },
+  {
+    "原文": "10. `data — indicate`。正式文体中 `data` 常按复数处理；若特定语域把它视为集合性单数，应保持全文一致。本题按复数设计。",
+    "修订": "10. 完整主语：`The data collected from more than thirty monitoring stations along the coast`；中心词 data。本题已指定按复数用法处理，选 indicate；stations 为可能的干扰词。data 在其他语境中也可按不可数名词配单数谓语。"
+  },
+  {
+    "原文": "86. `proportion — has`；`fruit`、`points`、`border` 都可能构成干扰。",
+    "修订": "86. 完整主语：`The proportion of imported fruit rejected at inspection points near the border`；中心词 proportion，选 has。fruit、points、border 可能构成干扰。"
+  },
+  {
+    "原文": "87. `reliability — depends`；不要被 `predictions` 和 `models` 诱导。",
+    "修订": "87. 完整主语：`The reliability of the predictions generated by the new climate models`；中心词 reliability，选 depends。干扰词可为 predictions、models。"
+  },
+  {
+    "原文": "88. `A number of... — have`。`a number of + 复数名词` 表示“许多”，谓语用复数。",
+    "修订": "88. 完整主语：`A number of students from the two evening classes`。a number of students 表示“许多学生”，整体按复数用法选 have；不能只看到形式上的单数 number 就选 has。"
+  },
+  {
+    "原文": "89. `The number of... — has`。中心词是单数 `number`；`complaints`、`departments`、`region` 是修饰链内名词。",
+    "修订": "89. 完整主语：`The number of complaints received by customer service departments across the region`；中心词为单数 number，选 has。complaints、departments、region 是内部名词。"
+  },
+  {
+    "原文": "90. 整个 `What...system` 主语从句作一个概念，选 `is`。",
+    "修订": "90. 完整主语：`What the two independent investigations reveal about the safety system`。本句把调查所揭示的内容视为一个整体，选 is；investigations 是从句内部主语，不能直接控制主句谓语。"
+  },
+  {
+    "原文": "28. 它能提高环境成本的可见度并增加声誉、财务压力，但不能保证禁止项目或促使投资者撤资。",
+    "修订": "28. 它能提高环境成本的可见度并增加声誉、财务压力；规定并不禁止高碳开发，也不保证投资者会撤资。前者是规则未设置的禁令，后者是未获保证的后果。"
+  },
+  {
+    "原文": "evidence remained incomplete",
+    "修订": "evidence remains incomplete"
+  },
+  {
+    "原文": "**1.** The sharp rate hike cooled the housing market.",
+    "修订": "**1.** The central bank's sharp rate hike caused a sharp slowdown in the housing market. 主干保留央行来源及两处程度信息；表达不限于这一措辞。"
+  },
+  {
+    "原文": "C. 短信提醒可以解决遗忘问题，但其效果受到实际安排障碍的限制",
+    "修订": "C. 短信提醒能减少因遗忘造成的爽约，但效果受到实际安排障碍的限制"
+  },
+  {
+    "原文": "介词修饰链（来源→范围→时间）",
+    "修订": "介词修饰链（下降对象→地域范围→时间）"
+  },
+  {
+    "原文": "用**介词修饰链 + 派生及物动词**造句",
+    "修订": "用**介词修饰链 + 表示影响的及物动词**造句"
+  },
+  {
+    "原文": "用**倒装 + 尾焦点**造句",
+    "修订": "用**倒装 + 句末补充说明**造句"
+  },
+  {
+    "原文": "将以下口语化句子改写为名词化版本，消除 because / so / when 等连接词：",
+    "修订": "将两个变化改写为名词化表达，保留因果和必须重设计的含义，改用单一主句组织信息，不再使用原来的 because / so 连接："
+  },
+  {
+    "原文": "**4.（第二步·名词化压缩）** 名词化改写：",
+    "修订": "**4.（第二步·名词化压缩）** 将加息和市场降温名词化，保留 when 所表达的时间关系以及降温导致违约的结果；不额外断言加息导致降温："
+  },
+  {
+    "原文": "2. A new method **for seawater desalination**, **developed by engineers** **in Australia**, is efficient.",
+    "修订": "2. The new method **for seawater desalination**, **developed by engineers** **in Australia**, is efficient."
+  },
+  {
+    "原文": "3. A survey **about mental health among students**, **conducted by researchers last year**, revealed trends.",
+    "修订": "3. The survey **about mental health among students**, **conducted by researchers last year**, revealed trends."
+  },
+  {
+    "原文": "8. A new algorithm **for autonomous vehicles in cities**, **designed by the company**, improves safety.",
+    "修订": "8. The new algorithm **for autonomous vehicles in cities**, **designed by the company**, improves safety."
+  },
+  {
+    "原文": "9. The revival **of traditional craftsmanship** **in rural communities**, **led by young people**, is encouraging.",
+    "修订": "9. The revival **of traditional craftsmanship** **in rural areas**, **led by young people**, is encouraging."
+  },
+  {
+    "原文": "3. A new algorithm **for facial recognition（用途）** **in low-light conditions（场景）** **with a small training dataset（资源条件）** performed well in the trial. 主句谓语：performed；名词组内3个介词短语。",
+    "修订": "3. A new algorithm **for the analysis（用途）** **of facial images（对象）** **from security cameras（来源）** performed well in the trial. 主句谓语：performed；名词组内3个介词短语依次说明用途、分析对象及图像来源。"
+  },
+  {
+    "原文": "4. 将从句改写为现在分词短语（结果状语）：",
+    "修订": "4. 将 and 连接的结果分句改写为现在分词短语（结果状语）："
+  },
+  {
+    "原文": "The report confirmed a fact that the ecosystem is collapsing.",
+    "修订": "The report confirmed that the ecosystem is collapsing."
+  },
+  {
+    "原文": "Father patted his shoulder and said nothing. This gave him great courage.",
+    "修订": "The father patted his son's shoulder and said nothing. This gave the boy great courage."
+  },
+  {
+    "题号": "P7-7.6-Q8",
+    "补充说明": "题内设定：所采取的措施取得了控制污染、恢复空气质量的结果；改写须保留这些已陈述的结果。"
+  },
+  {
+    "题号": "P4-Q109",
+    "补充说明": "比较当天与一周后测试所观察到的差异；不把不同测试时间直接说成已证明的心理机制。"
+  },
+  {
+    "原文": "只有题干允许自拟或扩写时才增加合理内容；先准确、清楚，再考虑复杂度与速度。",
+    "修订": "只有题干允许自拟或扩写时才增加合理内容；先准确、清楚，再考虑复杂度与速度。未注明来源的材料按自编教学情境处理；题中的机构、年份、数字不作为真实研究或政策报道引用。"
+  },
+  {
+    "位置": "### 3.2.4",
+    "原文": "要求：把表示动作或变化的名词改为明确的动词表达，说明谁做了什么或什么发生变化，并判断加粗动词表示“促进、削弱、阻止、使必要、消除需要”中的哪一种关系。",
+    "修订": "要求：把表示动作或变化的名词改为明确的动词表达，说明谁做了什么或什么发生变化，并判断加粗动词表示“促进、削弱、阻止、使必要、消除需要”中的哪一种关系。 未给出施事者时可用被动或说明变化，不自补研究者、公司等主体；表示“使必要”不等于已经实施。"
+  },
+  {
+    "位置": "### 4.2.4",
+    "原文": "要求：把表示动作或变化的名词改为明确的动词表达，说明谁做了什么或什么发生变化，并判断加粗动词表示“诱发或催化、驱动或促进、削弱或瓦解、阻断或排除、迫使或要求、凸显或印证”中的哪一类关系（分类表见理论全书 4.4.2.1 节）。",
+    "修订": "要求：把表示动作或变化的名词改为明确的动词表达，说明谁做了什么或什么发生变化，并判断加粗动词表示“诱发或催化、驱动或促进、削弱或瓦解、阻断或排除、迫使或要求、凸显或印证”中的哪一类关系（分类表见理论全书 4.4.2.1 节）。 未给出施事者时可用被动或说明变化，不自补研究者、公司等主体；表示“使必要”不等于已经实施。"
+  },
+  {
+    "原文": "When participants were asked to recall a list of words immediately after learning it, moderate background noise had little measurable effect. After a delay of forty-eight hours, however, those exposed to unpredictable noise during learning remembered significantly fewer words than those who had studied in silence.",
+    "修订": "Participants studied a list of words either in moderate, unpredictable background noise or in silence. An immediate recall test showed little measurable difference between the groups. After a delay of forty-eight hours, however, those who had learned in noise remembered significantly fewer words than those who had learned in silence."
+  },
+  {
+    "原文": "29. 段落里的时间条件（学后立即回忆 vs. 延迟四十八小时）如何改变研究结论？",
+    "修订": "29. 学后立即与延迟四十八小时的测试各观察到什么差异？这些结果支持哪种尚待验证的解释？"
+  },
+  {
+    "原文": "29. 立即回忆时噪声影响不明显，延迟四十八小时后差异才显现，因此时间条件把结论指向记忆的后期稳定过程。",
+    "修订": "29. 立即回忆时两组差异不明显；延迟四十八小时后，噪声组回忆的词较少。这支持“干扰可能更多影响记忆的后期稳定”的解释，但该机制仍需直接测量确认。"
+  },
+  {
+    "原文": "41. `The rapid mutation of the virus necessitated a redesign of the diagnostic test.`",
+    "修订": "41. `The rapid mutation of the virus necessitated a redesign of the diagnostic test by researchers.`"
+  },
+  {
+    "原文": "题内设定：数字化使工作人员每天接触原件不再必要",
+    "修订": "题内设定：数字化使研究者每天接触原件不再必要"
+  },
+  {
+    "原文": "10. The revival **of traditional weaving craftsmanship in remote rural communities of southwestern China**, **led by a group of young artisans returning from urban areas** **through online marketing and cultural tourism partnerships**, has breathed new life into villages once facing depopulation.",
+    "修订": "10. The revival **of traditional weaving craftsmanship in remote rural communities of southwestern China**, **led through online marketing and cultural tourism partnerships by a group of young artisans who had returned home from cities**, has breathed new life into villages once facing depopulation."
+  },
+  {
+    "位置": "理论全书的非谓语改写例句",
+    "修订": "把 will 改为 might，以明确考查情态可能性是否保留；不把表示未来的分词形式一概判错。"
+  },
+  {
+    "位置": "练习全书的非谓语改写例句",
+    "修订": "把 will 改为 might，以明确考查情态可能性是否保留；不把表示未来的分词形式一概判错。"
+  },
+  {
+    "位置": "理论4.2.2.5",
+    "原文": "上述规则讨论的是完整从句中的关系词省略，不能与下一节的非谓语改写混为一谈。",
+    "修订": "上述规则讨论的是关系词直接省略，不能与4.2.2.7节的非谓语改写混为一谈。时间关系中的 when 在某些限定性从句中也可省略，如 `the day we first met`；这类关系副词要按具体搭配判断，不能直接套用宾语关系词的规则。[时间关系词的省略说明](https://sara.natcorp.ox.ac.uk/docs/claws7.html)"
+  }
+]

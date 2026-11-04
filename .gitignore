@@ -1,0 +1,15 @@
+# 临时与备份文件
+*.tmp.pdf
+*.zip
+.workbuddy/
+备份/
+
+# 封面设计内部临时快照
+.creative-design/cover-sets-v2/scripts/
+.creative-design/cover-sets-v2/payloads/
+.creative-design/cover-sets-v2/html/_shots/
+.creative-design/cover-sets-v2/html/_reports/
+.creative-design/cover-sets-v2/diag_out.json
+.creative-design/cover-sets-v2/diag_ws.json
+.creative-design/cover-sets-v2/export_log.txt
+定稿打印版/多元配色修订版/预览/

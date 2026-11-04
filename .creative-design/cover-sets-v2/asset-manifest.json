@@ -1,0 +1,256 @@
+{
+  "brief_snapshot": {
+    "path": ".creative-design/cover-sets-v2/brief.md",
+    "version": "v1",
+    "status": "frozen"
+  },
+  "assets": [
+    {
+      "asset_id": "s1_theory_bg",
+      "purpose": "套装一东方文心·纸墨——理论册三面展开背景层：米白宣纸纤维纸面贯穿整幅，极淡墨青晕染的山形/水纹集中在画面右侧与前封一侧，中上部为低干扰留白以承载竖排书名；A4 前封以 cover 取景复用本图",
+      "production_method": "image_generate",
+      "reference_inputs": [],
+      "identity_source": "none（从零生成的通用纸本背景，不承载受保护身份）",
+      "prompt": "编辑式纸本背景，横版画面，米白色宣纸纤维纸面贯穿整幅，细腻亚光纸纹均匀分布，纹理尺度克制。画面右侧边缘以极淡的墨青蓝色水墨晕染出低对比的山形与细小水纹，墨色由右缘向左逐渐化入纸面，仅占画面右缘约四分之一区域；左侧与中部为平整低干扰的留白区，纸面干净、明度稳定。整体呈现东方文人书卷气，素雅、克制。均匀漫射明暗，纸层交接处仅轻微色阶过渡，无任何可辨认的光源、光束或光晕，无文字、无标识。横版构图。",
+      "target": {
+        "ratio": "1.45:1",
+        "width": 2048,
+        "height": 1408,
+        "safe_area": "左侧与中部 70% 平整留白供书名排版，右侧墨青晕染不进入文字区"
+      },
+      "consumers": [
+        "套装一理论三面展开-背景层",
+        "套装一理论A4前封-背景层(cover)"
+      ],
+      "acceptance": [
+        "纸纹细腻无拼接",
+        "晕染低对比不抢文字",
+        "无意外文字或标识",
+        "均匀漫射无光晕"
+      ],
+      "postprocess": [
+        "保留完整背景，不抠图"
+      ],
+      "status": "ready",
+      "output": {
+        "uri": "https://aka.doubaocdn.com/s/CgGpU3hHzJ",
+        "width": 2469,
+        "height": 1698,
+        "version": "v1",
+        "alpha": false
+      },
+      "canvas_item_id": "vsCPogSL-4JvGre0CA6-0201",
+      "delivery": {
+        "canvas_create": "ok",
+        "canvas_get": "ok",
+        "present_files": "ok"
+      }
+    },
+    {
+      "asset_id": "s1_practice_bg",
+      "purpose": "套装一东方文心·纸墨——练习册三面展开背景层：与理论册同构，晕染偏赭石色；A4 前封 cover 复用",
+      "production_method": "image_generate",
+      "reference_inputs": [],
+      "identity_source": "none",
+      "prompt": "编辑式纸本背景，横版画面，米白色宣纸纤维纸面贯穿整幅，细腻亚光纸纹均匀分布，纹理尺度克制。画面右侧边缘以极淡的赭石红褐色水墨晕染出低对比的山形与细小水纹，墨色由右缘向左逐渐化入纸面，仅占画面右缘约四分之一区域；左侧与中部为平整低干扰的留白区，纸面干净、明度稳定。整体呈现东方文人书卷气，素雅、克制。均匀漫射明暗，纸层交接处仅轻微色阶过渡，无任何可辨认的光源、光束或光晕，无文字、无标识。横版构图。",
+      "target": {
+        "ratio": "1.45:1",
+        "width": 2048,
+        "height": 1408,
+        "safe_area": "左侧与中部 70% 平整留白供书名排版，右侧赭石晕染不进入文字区"
+      },
+      "consumers": [
+        "套装一练习三面展开-背景层",
+        "套装一练习A4前封-背景层(cover)"
+      ],
+      "acceptance": [
+        "纸纹细腻无拼接",
+        "晕染低对比不抢文字",
+        "无意外文字或标识",
+        "均匀漫射无光晕"
+      ],
+      "postprocess": [
+        "保留完整背景，不抠图"
+      ],
+      "status": "ready",
+      "output": {
+        "uri": "https://aka.doubaocdn.com/s/L3NhgVqOsj",
+        "width": 2469,
+        "height": 1698,
+        "version": "v1",
+        "alpha": false
+      },
+      "canvas_item_id": "zoisTbe9-4JrTdqYFuc-0201",
+      "delivery": {
+        "canvas_create": "ok",
+        "canvas_get": "ok",
+        "present_files": "ok"
+      }
+    },
+    {
+      "asset_id": "s2_theory_bg",
+      "purpose": "套装二瑞士编辑·网格——理论册三面展开背景层：米白纸面叠加极淡钢蓝细网格与刻度，右缘轻微色阶；A4 前封 cover 复用",
+      "production_method": "image_generate",
+      "reference_inputs": [],
+      "identity_source": "none",
+      "prompt": "编辑式纸本背景，横版画面，米白色平整整洁纸面贯穿整幅。画面以极淡的钢蓝色细线铺一层稀疏正交网格，网格线纤细、对比柔和、间距均匀，覆盖整幅但几乎融入纸面；右侧边缘有一窄条更深的钢蓝色色阶带，由右缘向左缓慢化开。左侧与中部保持平整低干扰，网格在文字区域自动稀淡。整体呈现瑞士编辑设计的理性秩序，克制、干净。均匀漫射明暗，无任何可辨认的光源、光束或光晕，无文字、无标识。横版构图。",
+      "target": {
+        "ratio": "1.45:1",
+        "width": 2048,
+        "height": 1408,
+        "safe_area": "中上部 65% 低干扰网格供书名排版，右缘色带为装饰不进入文字区"
+      },
+      "consumers": [
+        "套装二理论三面展开-背景层",
+        "套装二理论A4前封-背景层(cover)"
+      ],
+      "acceptance": [
+        "网格纤细不抢文字",
+        "色带克制",
+        "无意外文字或标识",
+        "均匀漫射无光晕"
+      ],
+      "postprocess": [
+        "保留完整背景，不抠图"
+      ],
+      "status": "ready",
+      "output": {
+        "uri": "https://aka.doubaocdn.com/s/CJ8ORaQt6H",
+        "width": 2469,
+        "height": 1698,
+        "version": "v1",
+        "alpha": false
+      },
+      "canvas_item_id": "J0EioMJG-4K6xDdjIIs-0201",
+      "delivery": {
+        "canvas_create": "ok",
+        "canvas_get": "ok",
+        "present_files": "ok"
+      }
+    },
+    {
+      "asset_id": "s2_practice_bg",
+      "purpose": "套装二瑞士编辑·网格——练习册三面展开背景层：与理论册同构，网格与色带偏墨绿色；A4 前封 cover 复用",
+      "production_method": "image_generate",
+      "reference_inputs": [],
+      "identity_source": "none",
+      "prompt": "编辑式纸本背景，横版画面，米白色平整整洁纸面贯穿整幅。画面以极淡的墨绿色细线铺一层稀疏正交网格，网格线纤细、对比柔和、间距均匀，覆盖整幅但几乎融入纸面；右侧边缘有一窄条更深的墨绿色色阶带，由右缘向左缓慢化开。左侧与中部保持平整低干扰，网格在文字区域自动稀淡。整体呈现瑞士编辑设计的理性秩序，克制、干净。均匀漫射明暗，无任何可辨认的光源、光束或光晕，无文字、无标识。横版构图。",
+      "target": {
+        "ratio": "1.45:1",
+        "width": 2048,
+        "height": 1408,
+        "safe_area": "中上部 65% 低干扰网格供书名排版，右缘色带为装饰不进入文字区"
+      },
+      "consumers": [
+        "套装二练习三面展开-背景层",
+        "套装二练习A4前封-背景层(cover)"
+      ],
+      "acceptance": [
+        "网格纤细不抢文字",
+        "色带克制",
+        "无意外文字或标识",
+        "均匀漫射无光晕"
+      ],
+      "postprocess": [
+        "保留完整背景，不抠图"
+      ],
+      "status": "ready",
+      "output": {
+        "uri": "https://aka.doubaocdn.com/s/ej1LkVV2U0",
+        "width": 2469,
+        "height": 1698,
+        "version": "v1",
+        "alpha": false
+      },
+      "canvas_item_id": "rEqSS4M6-4Jqp6qDpcg-0201",
+      "delivery": {
+        "canvas_create": "ok",
+        "canvas_get": "ok",
+        "present_files": "ok"
+      }
+    },
+    {
+      "asset_id": "s3_theory_bg",
+      "purpose": "套装三档案标本·纸本——理论册三面展开背景层：牛皮纸纤维纸面，极淡档案靛染边与轻微档案袋折痕纹理，中央低干扰；A4 前封 cover 复用",
+      "production_method": "image_generate",
+      "reference_inputs": [],
+      "identity_source": "none",
+      "prompt": "编辑式纸本背景，横版画面，浅牛皮纸色纤维纸面贯穿整幅，细腻纸纤维与极轻微的档案袋折痕纹理均匀分布，纹理克制。画面上下边缘各有一窄条极淡的档案靛蓝色染边，向画面中央缓慢化开；四角有非常轻微的纸张磨损痕迹。中央区域平整低干扰，明度稳定。整体呈现学术档案的考据感，沉稳、素净。均匀漫射明暗，无任何可辨认的光源、光束或光晕，无文字、无标识。横版构图。",
+      "target": {
+        "ratio": "1.45:1",
+        "width": 2048,
+        "height": 1408,
+        "safe_area": "中央 60% 低干扰纸面供书名排版，上下染边为装饰不进入文字区"
+      },
+      "consumers": [
+        "套装三理论三面展开-背景层",
+        "套装三理论A4前封-背景层(cover)"
+      ],
+      "acceptance": [
+        "纸纹细腻无拼接",
+        "染边克制",
+        "无意外文字或标识",
+        "均匀漫射无光晕"
+      ],
+      "postprocess": [
+        "保留完整背景，不抠图"
+      ],
+      "status": "ready",
+      "output": {
+        "uri": "https://aka.doubaocdn.com/s/DUl8yU6F0R",
+        "width": 2469,
+        "height": 1698,
+        "version": "v1",
+        "alpha": false
+      },
+      "canvas_item_id": "T7eiC56E-4K0sTWdauw-0201",
+      "delivery": {
+        "canvas_create": "ok",
+        "canvas_get": "ok",
+        "present_files": "ok"
+      }
+    },
+    {
+      "asset_id": "s3_practice_bg",
+      "purpose": "套装三档案标本·纸本——练习册三面展开背景层：与理论册同构，染边偏苔绿色；A4 前封 cover 复用",
+      "production_method": "image_generate",
+      "reference_inputs": [],
+      "identity_source": "none",
+      "prompt": "编辑式纸本背景，横版画面，浅牛皮纸色纤维纸面贯穿整幅，细腻纸纤维与极轻微的档案袋折痕纹理均匀分布，纹理克制。画面上下边缘各有一窄条极淡的苔绿色染边，向画面中央缓慢化开；四角有非常轻微的纸张磨损痕迹。中央区域平整低干扰，明度稳定。整体呈现学术档案的考据感，沉稳、素净。均匀漫射明暗，无任何可辨认的光源、光束或光晕，无文字、无标识。横版构图。",
+      "target": {
+        "ratio": "1.45:1",
+        "width": 2048,
+        "height": 1408,
+        "safe_area": "中央 60% 低干扰纸面供书名排版，上下染边为装饰不进入文字区"
+      },
+      "consumers": [
+        "套装三练习三面展开-背景层",
+        "套装三练习A4前封-背景层(cover)"
+      ],
+      "acceptance": [
+        "纸纹细腻无拼接",
+        "染边克制",
+        "无意外文字或标识",
+        "均匀漫射无光晕"
+      ],
+      "postprocess": [
+        "保留完整背景，不抠图"
+      ],
+      "status": "ready",
+      "output": {
+        "uri": "https://aka.doubaocdn.com/s/V6l6x4dRUU",
+        "width": 2469,
+        "height": 1698,
+        "version": "v1",
+        "alpha": false
+      },
+      "canvas_item_id": "mN3TPRky-4Jqp6qDptC-0201",
+      "delivery": {
+        "canvas_create": "ok",
+        "canvas_get": "ok",
+        "present_files": "ok"
+      }
+    }
+  ],
+  "unresolved_blockers": []
+}
