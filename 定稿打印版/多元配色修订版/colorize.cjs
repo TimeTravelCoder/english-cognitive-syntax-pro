@@ -28,15 +28,15 @@ blockquote{margin:1.1em 0;padding:12px 18px;border:1px solid #cbdde9;border-left
 blockquote p{margin:.45em 0;line-height:1.68}
 blockquote p:first-of-type{margin-top:0}
 blockquote p:last-of-type{margin-bottom:0}
-.callout-label{font:700 10.5pt "Microsoft YaHei";color:var(--accent);margin-bottom:8px;padding-bottom:5px;border-bottom:1px dashed var(--line);letter-spacing:0.02em}
+.callout-label{break-after:avoid !important;page-break-after:avoid !important;font:700 10.5pt "Microsoft YaHei";color:var(--accent);margin-bottom:8px;padding-bottom:5px;border-bottom:1px dashed var(--line);letter-spacing:0.02em}
 blockquote.theory{border-left-color:var(--accent);background:var(--wash)}
 blockquote.example{border-left-color:#236965;border-color:#c4e2df;background:#f1f8f7}
 blockquote.example .callout-label{color:#1b5450;border-bottom-color:#c4dedb}
-blockquote.practice{background:#faf5eb;border-left-color:#96621f;border-color:#ebdcb8}
+blockquote.practice{break-inside:avoid !important;page-break-inside:avoid !important;background:#faf5eb;border-left-color:#96621f;border-color:#ebdcb8}
 blockquote.practice .callout-label{color:#794e18;border-bottom-color:#e4d3ab}
 blockquote.warning{border-left-color:#b84e20;border-color:#f2d2c2;background:#fff5ef}
 blockquote.warning .callout-label{color:#9c3e16;border-bottom-color:#edd0c0}
-blockquote.answer{background:#f1f8f3;border-left-color:#386f4a;border-color:#c6e4d0}
+blockquote.answer{break-inside:avoid !important;page-break-inside:avoid !important;background:#f1f8f3;border-left-color:#386f4a;border-color:#c6e4d0}
 blockquote.answer .callout-label{color:#29593a;border-bottom-color:#c3dfcd}
 blockquote strong{color:var(--accent)}
 code{background:#eff2f6;color:#30465a}

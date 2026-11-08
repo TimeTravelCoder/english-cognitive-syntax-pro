@@ -1,4 +1,4 @@
-$ErrorActionPreference = 'Stop'
+﻿$ErrorActionPreference = 'Stop'
 $taskNode = 'C:/Users/Ming/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node.exe'
 $taskPython = 'C:/Users/Ming/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe'
 $env:PYTHONIOENCODING = 'utf-8'
